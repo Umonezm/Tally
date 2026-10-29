@@ -1,0 +1,6 @@
+{
+  "name": "TallyWise",
+  "description": "Daily expenses and income tally tracker with visual graphs, category analytics, safe daily spend calculation, and accountability streak metrics to manage your budget effectively.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
